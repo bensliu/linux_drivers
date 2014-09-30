@@ -1,0 +1,1 @@
+cmd_/home/ben/ti/essential_linux_device_driver/chapter5/cmos/cmos.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.13.0-35-generic/scripts/module-common.lds --build-id  -o /home/ben/ti/essential_linux_device_driver/chapter5/cmos/cmos.ko /home/ben/ti/essential_linux_device_driver/chapter5/cmos/cmos.o /home/ben/ti/essential_linux_device_driver/chapter5/cmos/cmos.mod.o
